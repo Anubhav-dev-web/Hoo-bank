@@ -1,12 +1,12 @@
-Sure! Here's a detailed README.md file for your HooBank project:
 
----
 
 # HooBank Landing Page
 
 ## Overview
 
 HooBank is a modern and sleek landing page built using React, Tailwind CSS, and Vite. It provides a clean and intuitive design to showcase a fictional banking service. This project aims to demonstrate the integration of React with Tailwind CSS for efficient styling and Vite for fast development and building.
+
+
 
 ![alt text](preview.jpg)
 
